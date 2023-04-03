@@ -2,9 +2,9 @@
 <h3 align="center">A Data Scientist from Russia (looking for opportunities)</h3>
 (img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif")
 
-- 🔭 I’m currently working on **"Trading bot using Reinforcement Learning with Forecasting**
+- 🔭 I’m currently working on - **"Trading bot using Reinforcement Learning with Forecasting**
 
-- 💬 Ask me about **Reinforcement Learning, Machine Learning**
+- 💬 Ask me about - **Reinforcement Learning, Machine Learning**
 
 - 📫 How to reach me **accpavel1@gmail.com**
 
