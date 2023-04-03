@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **accpavel1@gmail.com**
 
-## 🌐 Socials:
+<h3 align="left">## 🌐 Socials: </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2" height="30" width="40" /></a>
