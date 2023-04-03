@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer - from Russia 🇷🇺</h3>
 <h3 align="center">Looking for opportunities 👀</h3>
 <h3 align="center"> </h3>
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
 - 🔭 I’m currently working on - **Trading Bot (using ML & RL)**
 
