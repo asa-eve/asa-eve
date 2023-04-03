@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Pavel</h1>
 <h3 align="center">A Data Scientist from Russia (looking for opportunities)</h3>
-<img align="right" alt="Coding" width="550" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
 - 🔭 I’m currently working on - **"Trading bot using RL**
 
@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/strafetotheheaven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="4" height="30" width="40" /></a>
-<a href="https://discord.gg/eve#7038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3" height="30" width="40" /></a>
+<a href="https://discord.gg/users/eve#7038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
