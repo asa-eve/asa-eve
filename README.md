@@ -20,9 +20,9 @@
 
 ## 🛠 Projects:
 - Trading Bot (using ML & RL)
-- 
+
 - Battery Energy Management (using ML & RL)
-- 
+
 - Wildberries Price Parser 
 
 ## 📊 GitHub Stats:
