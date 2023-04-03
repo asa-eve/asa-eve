@@ -15,7 +15,7 @@
 ## 🌐 Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1)
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/214900403861454848)
-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/strafetotheheaven)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=appveyor&logo=Kaggle&logoColor=white)](https://www.kaggle.com/strafetotheheaven)
 
 <p align="left">
 <a href="https://linkedin.com/in/2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2" height="30" width="40" /></a>
