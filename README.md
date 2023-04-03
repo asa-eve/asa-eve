@@ -4,6 +4,8 @@
 <h3 align="center"> </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
+## 🧑 About Me:
+
 - 🔭 I’m currently working on - **Trading Bot (using ML & RL)**
 
 - 💬 Ask me about - **ML & RL**
@@ -13,7 +15,7 @@
 ## 🌐 Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1)
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/214900403861454848)
-- [![Kaggle]()](https://www.kaggle.com/strafetotheheaven)
+- [![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/strafetotheheaven)
 
 <p align="left">
 <a href="https://linkedin.com/in/2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2" height="30" width="40" /></a>
