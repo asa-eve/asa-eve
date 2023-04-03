@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Pavel</h1>
-<h3 align="center">A Data Scientist from Russia (looking for opportunities)</h3>
+<h1 align="center">Hello 👋 - I'm Pavel</h1>
+<h3 align="center">Machine Learning Engineer - from Russia (looking for opportunities)</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
 - 🔭 I’m currently working on - **"Trading bot using RL**
