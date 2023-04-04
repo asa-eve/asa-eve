@@ -20,6 +20,7 @@
 
 ## 🛠 Projects:
 - Trading Bot (using ML & RL) ---> ![go to repository]()
+    - 1
 
 - Battery Energy Management (using ML & RL) ---> ![go to repository]()
 
