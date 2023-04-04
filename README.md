@@ -23,6 +23,8 @@
     - About the project: 
 
 - Battery Energy Management (using ML & RL) ---> ![go to repository]()
+    - The objective is to create an optimization algorithm that effectively uses available solar power, building energy consumption, and a battery system to buy, sell, and consume energy in the way that saves the most money and puts the least demand on the energy grid.
+    - As a result up to 12% of savings were achieved by using RL algorithms (DQN, DDPG, A2C, PPO)
     - 
 
 - Wildberries Price Parser ---> ![go to repository]()
