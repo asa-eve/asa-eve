@@ -29,7 +29,13 @@
         - 
 
 - Wildberries Price Parser ---> ![go to repository]()
-    - Simple price parser for Windows that works using Python (on the background) - it will track the list of prices chosen by a user (stored in .txt file) - if price dropped (or item became available) the Windows notification will pop up, informing the user of recent changes
+    - Simple price parser for Windows that works using Python tracking the list of prices chosen - if price dropped (or item became available) the Windows will inform the user of recent changes
+    - More details:
+        - works with browsers like - Firefox, Google, Edge
+        - required Python (constantly working on the background)
+        - the list of 'goods' and their prices are stored in .txt file (can be changed whenever the user decides to)
+        - notify time and check time can be changed to whatever value user wants to
+        - user can track the list of goods by using the app
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=asa-eve&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
