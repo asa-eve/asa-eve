@@ -23,7 +23,7 @@
     - Objective:
 
 - Battery Energy Management (using ML & RL) ---> ![go to repository]()
-    - Objective: create an optimization algorithm that effectively uses available solar power, building energy consumption, and a battery system to buy, sell, and consume energy in the way that saves the most money and puts the least demand on the energy grid.
+    - Objective: create an optimization algorithm that effectively uses available solar power, building energy consumption, and a battery system to buy, sell, and consume energy in the way that saves the most money and puts the least demand on the energy grid
     - Results: 
         - up to 12% of savings were achieved by using RL algorithms (DQN, DDPG, A3C, PG, PPO)
         - up to 18% of savings were achieved by using MILP (Gurobi, CBC, GLOP)
