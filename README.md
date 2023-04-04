@@ -27,7 +27,7 @@
     - Results: 
         - up to 12% of savings were achieved by using RL algorithms (DQN, DDPG, A3C, PG, PPO)
         - up to 18% of savings were achieved by using MILP
-        - [an atricle was published regarding achieved results - "Optimizing Energy Demand-side Strategies for Energy Storage System Control using Linear Programming"](http://caopt.com/WCGO2021/WCGO_2021_Conference_Program.pdf)
+        - an atricle was published regarding achieved results - ["Optimizing Energy Demand-side Strategies for Energy Storage System Control using Linear Programming"](http://caopt.com/WCGO2021/WCGO_2021_Conference_Program.pdf)
 
 - Wildberries Price Parser ---> ![go to repository]()
     - Simple price parser for Windows that works using Python tracking the list of prices chosen - if price dropped (or item became available) the Windows will inform the user of recent changes
