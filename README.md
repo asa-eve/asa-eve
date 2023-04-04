@@ -23,9 +23,10 @@
     - About the project: 
 
 - Battery Energy Management (using ML & RL) ---> ![go to repository]()
-    - The objective is to create an optimization algorithm that effectively uses available solar power, building energy consumption, and a battery system to buy, sell, and consume energy in the way that saves the most money and puts the least demand on the energy grid.
-    - As a result up to 12% of savings were achieved by using RL algorithms (DQN, DDPG, A2C, PPO)
-    - 
+    - Objective: create an optimization algorithm that effectively uses available solar power, building energy consumption, and a battery system to buy, sell, and consume energy in the way that saves the most money and puts the least demand on the energy grid.
+    - Results: 
+        - up to 12% of savings were achieved by using RL algorithms (DQN, DDPG, A2C, PPO)
+        - 
 
 - Wildberries Price Parser ---> ![go to repository]()
     - Simple price parser for Windows that works using Python (on the background) - it will track the list of prices chosen by a user (stored in .txt file) - if price dropped (or item became available) the Windows notification will pop up, informing the user of recent changes
