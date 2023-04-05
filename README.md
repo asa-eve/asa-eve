@@ -20,7 +20,7 @@
 
 ## 🛠 Projects:
 - Trading Bot [ML, RL] ---> ![go to repository](https://github.com/asa-eve/Trading_Bot_RL)
-    - Objective:
+    - Simple system for trading stocks using Reinforcement Learning as decision-maker. Environment and some functions were modified and improved from library [FinRL: Financial Reinforcement Learning](https://github.com/AI4Finance-Foundation/FinRL)
 
 - Battery Energy Management [MILP, ML, RL] ---> ![go to repository]()
     - Objective: create an optimization algorithm that effectively uses available solar power, building energy consumption, and a battery system to buy, sell, and consume energy in the way that saves the most money and puts the least demand on the energy grid
