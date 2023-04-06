@@ -6,7 +6,7 @@
 
 ## 🧑 About Me:
 
-- 🔭 I’m currently working on - **Trading Bot (using ML & RL)**
+- 🔭 I’m currently working on - **Trading Bot [ML & RL]**
 
 - 💬 Ask me about - **ML & RL**
 
