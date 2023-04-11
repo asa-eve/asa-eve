@@ -10,7 +10,7 @@
 
 - 💬 Ask me about - **ML & RL**
 
-- 📫 How to reach me - **accpavel1@gmail.com**
+- 📫 How to reach me - **email, discord, kaggle**
 
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/1) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/214900403861454848) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/strafetotheheaven)
