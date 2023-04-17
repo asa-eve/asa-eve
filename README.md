@@ -19,19 +19,18 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ## 🛠 Projects:
-- Stock Trading Bot [ML, RL] ---> ![go to repository](https://github.com/asa-eve/Trading_Bot_RL)
-    - Package for Stock trading using Reinforcement Learning. 
+- **Stock Trading Bot** [ML, RL] ---> ![go to repository](https://github.com/asa-eve/Trading_Bot_RL)
     - Environment and some functions were modified and improved from library [FinRL: Financial Reinforcement Learning](https://github.com/AI4Finance-Foundation/FinRL)
     - Focused on providing an ability to train models on systems with low RAM (iterative training)
 
-- Battery Energy Management [MILP, ML, RL] ---> ![go to repository]()
+- **Battery Energy Management** [MILP, ML, RL] ---> ![go to repository](https://github.com/asa-eve/Battery_Energy_Management_RL)
     - Objective: create an optimization algorithm that effectively uses available solar power, building energy consumption, and a battery system to buy, sell, and consume energy in the way that saves the most money and puts the least demand on the energy grid
     - Results: 
         - up to 12% of savings were achieved by using RL algorithms (DQN, DDPG, A3C, PG, PPO)
         - up to 18% of savings were achieved by using MILP (Gurobi, CBC, GLOP)
         - an atricle was published regarding achieved results: [WCGO2021 - "Optimizing Energy Demand-side Strategies for Energy Storage System Control using Linear Programming"](http://caopt.com/WCGO2021/WCGO_2021_Conference_Program.pdf)
 
-- Wildberries Price Parser ---> ![go to repository]()
+- **Wildberries Price Parser** ---> ![go to repository]()
     - Simple price parser for Windows that works using Python tracking the list of prices chosen - if price dropped (or item became available) the Windows will inform the user of recent changes
     - More details:
         - works with browsers like - Firefox, Google, Edge
