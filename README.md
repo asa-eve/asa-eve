@@ -11,7 +11,7 @@
 - [**Competitive Data Science methods**](https://github.com/asa-eve/DS-code-practice) | TBD
 - [**Automated LLM code parser for ML development on Kaggle**](https://github.com/asa-eve/Kaggle-Competition-Code-Parser) | Pandas, Selenium, Ollama
   
-**Reinforcement Learning + ML**
+**Reinforcement Learning & ML**
 - [**Microgrid battery management using Deep Reinforcement Learning (AzureVMS)**](https://github.com/asa-eve/Battery_Energy_Management_RL)
 - [**Stock Trading Bot**](https://github.com/asa-eve/Trading_Bot_RL)
 
